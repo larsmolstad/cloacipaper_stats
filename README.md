@@ -38,7 +38,7 @@ cd folder_with_the_json_and_python_files
 python cloacipaperstats.py
 ```
 
-Alternatively, use a IDE like Spyder. Remember to change directory to the folder where
+Alternatively, use an IDE like Spyder. Remember to change directory to the folder where
 the python and the json file are located.
 
 ## Expected runtime:
